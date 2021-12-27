@@ -1,12 +1,12 @@
 {
-  "name": "express-ip",
+  "name": "@mgilangjanuar/express-ip",
   "version": "1.0.2",
   "description": "An express middleware for getting information about an IP",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/CITGuru/express-ip.git",
+  "repository": "https://github.com/mgilangjanuar/express-ip.git",
   "keywords": [
     "express",
     "ip",
